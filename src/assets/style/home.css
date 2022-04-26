@@ -1,0 +1,8 @@
+.aboutMe {
+  display: flex;
+  align-items: center;
+}
+.Dashboard {
+  display: flex;
+  justify-content: flex-end;
+}
